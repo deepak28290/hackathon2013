@@ -1,0 +1,8 @@
+Application-Name: offl2410.eba
+x-Raptor-TopLevelApp: com.ebay.app.raptor.offl2410
+Application-SymbolicName: offl2410.eba
+Application-ManifestVersion: 1.0
+Application-Version: 1.0.0.qualifier
+Application-Content: com.ebay.app.raptor.offl2410
+Manifest-Version: 1.0
+
